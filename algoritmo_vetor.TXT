@@ -17,3 +17,4 @@ inicio
 	fimenquanto
 
 	exibir("Valor total %d",c)
+fim
